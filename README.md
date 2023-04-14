@@ -7,7 +7,8 @@ Begin by importing the necessary libraries for the project, such as Tweepy, Pand
 
 2-**EDA on data:**
 Explore the data and get a basic understanding of the dataset. Check for missing values, data types, and unique values in the columns.
-![afgag](https://user-images.githubusercontent.com/121633990/231947335-a79307e4-4706-44b8-8600-1b63454a7dea.PNG)
+![fhddgjfk](https://user-images.githubusercontent.com/121633990/231948107-5e985f29-8718-41c4-8910-d95b2e32d591.PNG)
+
 
 ![fgkjhkfg](https://user-images.githubusercontent.com/121633990/231947385-7a0b6fb3-a344-4acc-a213-157b16fd531a.PNG)
 
