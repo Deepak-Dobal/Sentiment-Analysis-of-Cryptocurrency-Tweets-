@@ -7,7 +7,7 @@ Begin by importing the necessary libraries for the project, such as Tweepy, Pand
 
 2-**EDA on data:**
 Explore the data and get a basic understanding of the dataset. Check for missing values, data types, and unique values in the columns.
-                                             ![fhddgjfk](https://user-images.githubusercontent.com/121633990/231948107-5e985f29-8718-41c4-8910-d95b2e32d591.PNG)
+                                                                                           ![fhddgjfk](https://user-images.githubusercontent.com/121633990/231948107-5e985f29-8718-41c4-8910-d95b2e32d591.PNG)
 
 
 ![fgkjhkfg](https://user-images.githubusercontent.com/121633990/231947385-7a0b6fb3-a344-4acc-a213-157b16fd531a.PNG)
@@ -40,7 +40,9 @@ c-**Transfer Larning with Distilled BERT and RoBERTa:**
 
 5-**Evaluating the models:** Compare the performance of the different models by calculating their accuracy, precision, recall, and F1-score. 
   Choose the best model based on the evaluation metrics.
+  
   ![fghfgjhgj](https://user-images.githubusercontent.com/121633990/231947879-8b5ea868-8fae-4242-90e2-cc6b1dc1df9f.PNG)
+  
   ![gdfghdfhs](https://user-images.githubusercontent.com/121633990/231947956-29bf23ca-f81b-4a9e-a47e-a13949168cf7.PNG)
 
 
