@@ -1,5 +1,10 @@
 # Sentiment-Analysis-of-Cryptocurrency-Tweets
 
+![as-sentiment-analysis](https://user-images.githubusercontent.com/121633990/231948681-4fc48e88-5115-49dd-9e97-275f956d6f3a.jpg)
+
+
+Sentiment analysis on Twitter data for crypto can provide valuable insights into how people feel about different cryptocurrencies. By analyzing the sentiment of tweets related to specific cryptocurrencies, we can understand the public perception and market sentiment around that crypto. This information can be useful for investors and traders to make informed decisions about buying or selling a particular crypto. It can also help crypto companies to understand their target audience and improve their marketing strategies. Additionally, sentiment analysis can be used to detect and monitor any negative sentiment or misinformation about a particular crypto, which can help in managing reputation and addressing any issues.
+
 **Here are the steps for sentiment analysis of cryptocurrency tweets:**
 
 1-**Import and install important libraries:**
